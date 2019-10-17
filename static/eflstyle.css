@@ -1,0 +1,7 @@
+.notallowed{
+  cursor: not-allowed;
+}
+/* THIS IS A WORKAROUND FOR A BUG IN VUTIFY DATAGRIDS CROPPING rowsPerPage IN FIREFOX FOR WIN*/
+.card ul {
+  min-width: 70px;
+}
