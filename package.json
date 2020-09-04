@@ -35,7 +35,7 @@
     "vue-fuse": "^1.5.1",
     "vue-i18n": "^7.0.5",
     "vue-kindergarten": "^0.3.0",
-    "vue-moment": "^2.0.2",
+    "vue-moment": "^4.1.0",
     "vue-router": "^2.5.3",
     "vue2-dropzone": "^2.0.0",
     "vuetify": "^0.12.7",
