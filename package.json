@@ -26,7 +26,7 @@
     "recordrtc": "^5.4.6",
     "simple-phonetic-search": "^1.0.4",
     "socket-stream": "git+ssh://git@github.com/incora-dev/socket-stream.git",
-    "socket.io": "^2.1.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.1.1",
     "socket.io-stream": "^0.9.1",
     "vee-validate": "^2.0.0-rc.27",
