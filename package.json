@@ -21,7 +21,7 @@
     "fuse.js": "^3.2.0",
     "group-array": "^0.3.3",
     "lamejs": "^1.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "papaparse": "^4.3.3",
     "recordrtc": "^5.4.6",
     "simple-phonetic-search": "^1.0.4",
